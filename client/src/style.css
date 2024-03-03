@@ -64,9 +64,9 @@ header hr {
 }
 
 .submit-btn:hover {
-    color: #6dd5fa;
+    color: rgb(65, 184, 131);
     background: white;
-    border: solid 1px #6dd5fa;
+    border: solid 1px rgb(65, 184, 131)
 }
 
 .disabled-btn {
